@@ -3,6 +3,12 @@
 	"version": "1.0.0",
 	"author": "Jaren Orig",
 	"description": "A project to learn how to use npm and package.json",
+	"keyword": [
+		"freecodecamp",
+		"boilerplate",
+		"npm",
+		"package.json"
+	],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
